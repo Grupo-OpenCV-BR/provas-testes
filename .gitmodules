@@ -1,3 +1,6 @@
 [submodule "luppa"]
 	path = luppa
 	url = https://github.com/andreemidio/luppa
+[submodule "nuveo"]
+	path = nuveo
+	url = https://github.com/nuveo/cv-test
