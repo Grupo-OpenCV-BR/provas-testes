@@ -4,3 +4,6 @@
 [submodule "nuveo"]
 	path = nuveo
 	url = https://github.com/nuveo/cv-test
+[submodule "calib_challenge"]
+	path = calib_challenge
+	url = https://github.com/commaai/calib_challenge
